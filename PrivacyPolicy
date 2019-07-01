@@ -1,103 +1,26 @@
- Privacy Policy of Sight Meter
+* Privacy Policy of Sight Meter *
+
 This Application collects some Personal Data from its Users.
-Personal Data collected for the following purposes and using the following services:
-Beta Testing TestFlight
-○
-◆
-The following data is shared with the developer and Apple when you use TestFlight. If you accepted an invitation through a public link only, your email address and name are not visible to the developer.
-Information Shared by Using TestFlight
-    Data
-    Description
-   Email address
- The email address you were invited to test the app with. This may or may not be the same as the Apple ID associated with your device. If you were invited with a public link, this information is not displayed to the developer.
-    Name
-  Your first and last name as entered by the developer when they invited you to test the app using your email address. If you were invited with a public link, this information does not display.
-     Invitation Type
-    Whether you were invited by email or through a public link.
-   Status
- The status of your invitation. This can be Invited, Accepted, or Installed. This changes based on your status, and is refreshed when you accept or install a beta build.
-    Installs
-  The number of times you've installed a beta app build.
-    Sessions
-  The number of times you have used a beta app build.
-     Crashes
-   The number of crashes per beta app build.
- Data Shared when Sending Feedback (iOS only)
-When you send feedback from the TestFlight app or send crashes or screenshots
+  - Personal Data collected for the following purposes and using the following services:
+     - Beta Testing TestFlight
 
-             from the beta app, the following additional information is shared. If your device is running iOS 12.3 or earlier, this information is only shared with the developer. If your device is running iOS 13 beta or later, this information is shared with the developers and with Apple. This data is retained for one year.
-       Data
-Description
-When this data is included
-          App Name
-The name of the app you are testing.
-Included in all feedback
-         App Version
-The most recent version and build that you have access to. This is the number that displays under the app name in the list of apps in TestFlight.
-Included in all feedback
-        Installed App Version
-The version and build you have installed on your device.
-Included in all feedback
-        Device
-The model of your device.
-Included in all feedback
-        iOS Version
-The version of iOS your device is running.
-Included in all feedback
-          Language
-Your device language.
-Included in all feedback
-         Carrier
-Your wireless service provider.
-Included in all feedback
-          Timezone
-The timezone your device is set to.
-Included in all feedback
-           Architecture
-The type of Central Processing Unit (CPU) for your device.
-Included in all feedback
-           Connection Type
-Whether you were connected to WiFi, cellular, or not connected at the time that the feedback was sent and your network type.
-Included in all feedback
-         Paired Apple Watch
-Screenshot
-If there is an Apple Watch app, the Apple Watch model and watchOS version is shared with the developer.
-The screenshots you share when providing feedback.
-Included in all feedback
-Only on devices running iOS 13 beta or later
-
-cellular, or not connected
-at the time that the feedback was sent and your network type.
-                Paired Apple Watch
-     Screenshot
-   Contact information
-○ Sight Meter Owner and Data Controller ○ David Smith
-○ 2921 Greenvale Rd.
-○ Chevy Chase, MD 20815
-Owner contact email: dsmith@jetpad.com
-If there is an Apple Watch app, the Apple Watch model and watchOS version is shared with the developer.
-The length of time the app was open and running at the time the feedback was sent.
-Included in all feedback
-     The screenshots you share when providing feedback.
-Only on devices running iOS 13 beta or later
-          Comments
-The comments you share when providing feedback.
-Only on devices running iOS 13 beta or later
-       App uptime
-Only on devices running iOS 13 beta or later
-        Disk Free
-The amount of disk space you have available at the time the feedback was sent.
-Only on devices running iOS 13 beta or later
-        Battery
-Your battery level at the time the feedback was sent.
-Only on devices running iOS 13 beta or later
-          Screen Resolution
-The screen resolution of your device.
-Only on devices running iOS 13 beta or later
-           Crash Log
-Symbolicated crash logs. This includes information about how long the app was running before it crashed.
-Only on devices running iOS 13 beta or later
-   
-
+<table>
+<thead>
+<tr>
+  <th>First Header</th>
+  <th>Second Header</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Content Cell</td>
+  <td>Content Cell</td>
+</tr>
+<tr>
+  <td>Content Cell</td>
+  <td>Content Cell</td>
+</tr>
+</tbody>
+</table>
 
 
