@@ -16,14 +16,13 @@ sight-meter.com does not use cookies.
 
 ### Contact information 
 If you have questions regarding this privacy policy, you may email dsmith@jetpad.com 
-
-    * Sight Meter Owner and Data Controller
-    * David Smith
-    * 2921 Greenvale Rd. 
-    * Chevy Chase, MD 20815 Owner contact email: dsmith@jetpad.com
+* Sight Meter Owner and Data Controller
+* David Smith
+* 2921 Greenvale Rd. 
+* Chevy Chase, MD 20815 Owner contact email: dsmith@jetpad.com
 
 ### Changes to this policy
 Should we update, amend or make any changes to our privacy policy, those changes will be posted here.
-    * July 1st, 2019: Original privacy policy
+* July 1st, 2019: Original privacy policy
 
 
