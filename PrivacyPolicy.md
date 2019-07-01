@@ -1,4 +1,4 @@
-* Privacy Policy of Sight Meter *
+## Privacy Policy of Sight Meter
 
 The Sight Meter app is a free app. This SERVICE is provided by at no cost and is intended for use as is.
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
@@ -8,13 +8,13 @@ This Application does not collect Personal Data from its Users.
 
 Any information you enter into the application is only stored locally on your device or on Apple’s iCloud servers. 
 
-* Website *
+### Website
 * Log Files
 sight-meter.com is a static website and as such it does not require or store log files.
 * Cookies and Web Beacons
 sight-meter.com does not use cookies.
 
-* Contact information *
+### Contact information 
 If you have questions regarding this privacy policy, you may email dsmith@jetpad.com 
 
     * Sight Meter Owner and Data Controller
