@@ -10,9 +10,9 @@ Any information you enter into the application is only stored locally on your de
 
 ### Website
 * Log Files
-sight-meter.com is a static website and as such it does not require or store log files.
+* * sight-meter.com is a static website and as such it does not require or store log files.
 * Cookies and Web Beacons
-sight-meter.com does not use cookies.
+* * sight-meter.com does not use cookies.
 
 ### Contact information 
 If you have questions regarding this privacy policy, you may email dsmith@jetpad.com 
