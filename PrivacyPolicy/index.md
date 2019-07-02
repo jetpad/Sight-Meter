@@ -1,7 +1,7 @@
 ## Privacy Policy of Sight Meter
 
 The Sight Meter app is a free app. This SERVICE is provided by at no cost and is intended for use as is.
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decides to use my Service.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information.
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. This privacy policy applies to information collected by the Sight Meter app for iPhone, its website and any other devices and platforms. 
 
 This Application does not collect Personal Data from its Users.
