@@ -1,9 +1,10 @@
+# Sight Meter Support
 
-## Frequently Asked Questions about Sight Meter
+### Frequently Asked Questions about Sight Meter
 
-### Questions or problems with Sight Meter
+### Other questions or issues with Sight Meter
 
-If you have questions regarding Sight Meter that aren't listed here,  you may email me (David Smith) at dsmith@jetpad.com
+If you have questions regarding Sight Meter that weren't answered here,  you may email me (David Smith) at dsmith@jetpad.com
 
 
 
