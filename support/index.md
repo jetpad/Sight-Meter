@@ -6,7 +6,7 @@ The distance-to-blur test requires an iPhone with a TrueDepth front facing camer
 
 **My eyes are very myopic. I have to put the iPhone very close to my face in order to see text clearly. Will Sight Meter's distance-to-blur test work for me?**
 
-The distance-to-blur test is normally used when not wearing any glasses or contacts. But the test stops working if you hold the iPhone closer than about 18 cm from your face. This is how far someone who wears contacts of -6.00 diopters or stronger would hold it to see text clearly. If you have to hold the phone closer than 18 cm when not wearing glasses or contacts, there is still a way for you to take the test. 
+The distance-to-blur test is normally used when not wearing any glasses or contacts. But the test stops working if you hold the iPhone closer than about 18 cm from your face. This is how far you would hold it to see text clear if you wear contacts with a power of -6.00 diopters or stronger. If you have to hold the phone closer than 18 cm when not wearing glasses or contacts, there is still a way for you to take the test. 
 
   - If you normally wear contacts:
   
