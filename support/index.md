@@ -19,6 +19,6 @@ The distance-to-blur test is normally used when not wearing any glasses or conta
 ### Other questions or issues with Sight Meter
 
 If you have any questions regarding Sight Meter that weren't answered here, please email me (David Smith) at dsmith@jetpad.com
-
+[dsmith@jetpad.com](mailto:dsmith@jetpad.com).
 
 
