@@ -9,6 +9,7 @@
 **My eyes are very myopic. I have to put the iPhone very close to my face in order to see text clearly. Will Sight Meter's distance-to-blur test work for me? **
 
   - The distance-to-blur test stops working if you hold the iPhone closer than about 18 cm from your face. This is how far someone who wears contacts of -6.00 diopters or stronger would it to see text clearly (but isn't currently wearing contacts). 
+
 If you wear contacts:
 
   - bla bla bla
