@@ -1,6 +1,4 @@
-# Sight Meter Support
-
-### Frequently Asked Questions about Sight Meter
+# Frequently Asked Questions about Sight Meter
 
 **The app is missing the "Automatic" distance-to-blur measurement test. How do I measure my eyes?**
 
