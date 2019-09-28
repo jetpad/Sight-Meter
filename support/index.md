@@ -2,7 +2,7 @@
 
 ### Frequently Asked Questions about Sight Meter
 
-**The app is missing the "Automatic" distance-to-blur measurement test.**
+**The app is missing the "Automatic" distance-to-blur measurement test. How do I measure my eyes?**
 
     The distance-to-blur test requires an iPhone with a TrueDepth front facing camera such as a iPhone X or newer model.  I’ve included an additional “manual” way of entering the measurements if your phone doesn’t have TrueDepth. Select the "Self Reporting" eye test to enter the distances you've measured with a ruler. 
 
