@@ -6,7 +6,7 @@ If you choose to use my Service, then you agree to the collection and use of inf
 
 This Application does not collect Personal Data from its Users. Any information you enter into the application or that is collected from the device is only stored locally on your device or on Apple’s iCloud servers.
 
-For each eyesight test taken using the application, it records the distance from your eyes to the iPhone screen, the current light levels and the current light temperature.  
+For each test taken, using the application, it records the distance from your eyes to the screen, the current light intensity and the current light temperature.  
 
 ### Website
 * Log Files
