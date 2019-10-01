@@ -24,3 +24,4 @@ If you have questions regarding this privacy policy, you may email dsmith@jetpad
 ### Changes to this policy
 Should we update, amend or make any changes to our privacy policy, those changes will be posted here.
 * July 1st, 2019: Original privacy policy
+* October 1st, 2019: Clarified data collection practices
