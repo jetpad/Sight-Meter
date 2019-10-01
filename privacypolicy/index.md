@@ -4,11 +4,9 @@ The Sight Meter app is a free app. This SERVICE is provided by at no cost and is
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information.
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. This privacy policy applies to information collected by the Sight Meter app for iPhone, its website and any other devices and platforms. 
 
-This Application does not collect Personal Data from its Users.
+This Application does not collect Personal Data from its Users. Any information you enter into the application or that is collected from the device is only stored locally on your device or on Apple’s iCloud servers.
 
 For each eyesight test taken using the application, it records the distance from your eyes to the iPhone screen, the current light levels and the current light temperature.  
-
-Any information you enter into the application or that is collected from the device is only stored locally on your device or on Apple’s iCloud servers. 
 
 ### Website
 * Log Files
